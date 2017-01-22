@@ -16,7 +16,6 @@ Start SourceTree en maak een nieuwe repository aan.
 Selecteer het tabblad om een repository te "clonen" en vul volgende gegevens in:  
 -Source Path/URL: https://github.com/StadGent/CityGame.git  
 -Destination Path: Browse naar de map waar je Unity projecten staan, standaard is dit "Documenten" of "Documenten\Unity", en vul dit aan met "\CityGame"  
-
 Klik op "Clone" om de repository binnen te halen.  
 Na het downloaden:  
 Ga in het menu naar "Repository->Git LFS->Initialise Repository".  
@@ -29,9 +28,8 @@ Als alles is gedownload mag je SourceTree sluiten.
 
 Start Unity, selecteer om een project te openen en browse naar de locatie waar je de repository hebt gedownload.  
 Als Unity alles heeft geïmporteerd sleep dan volgende scenes in het Hierarchy venster:  
--Core in de root.
--Gent LOD_2 en Veerleplein in de _Common\Scenes map.
-
+-Core in de root.  
+-Gent LOD_2 en Veerleplein in de _Common\Scenes map.  
 Verwijder de Untitled scene en druk op Play.
 
 *English Version*
@@ -49,7 +47,6 @@ Start SourceTree and create a new repository.
 Select the tab to clone a repository and fill in following information:  
 -Source Path/URL: https://github.com/StadGent/CityGame.git  
 -Destination Path: Browse to the map where your Unity projects are located, standaard  this is "Documents" or "Documents\Unity", and append this with "\CityGame"  
-
 Click "Clone" to download the repository.  
 After download:  
 In the menu go to "Repository->Git LFS->Initialise Repository".  
@@ -61,7 +58,6 @@ After everything is downloaded you may close SourceTree.
 
 Start Unity, select to open a new project and browse to the location where you downloaded the repository.  
 When Unity has finished importing the assets drag following scenes in the Hierarchy window:  
--Core in the root.
--Gent LOD_2 and Veervleplein in the _Common\Scenes map.
-
+-Core in the root.  
+-Gent LOD_2 and Veervleplein in the _Common\Scenes map.  
 Remove the Untitled scene and press Play.
