@@ -4,10 +4,10 @@
 
 ## Installatie
 
-Download en installeer Unity versie 5.5.0: https://unity3d.com/get-unity/download/archive<Enter>
-Download en installeer git: https://git-scm.com/downloads<Enter>
-Download en installeer SourceTree: https://www.sourcetreeapp.com/<Enter>
-Tijdens installatie:<Enter>
+Download en installeer Unity versie 5.5.0: https://unity3d.com/get-unity/download/archive  return
+Download en installeer git: https://git-scm.com/downloads  return
+Download en installeer SourceTree: https://www.sourcetreeapp.com/  return
+Tijdens installatie:  return
 Als er wordt gevraagd naar Mercurial: selecteer dan om de embedded versie te installeren.
 
 ## Setup
@@ -16,8 +16,8 @@ Start SourceTree en maak een nieuwe repository aan.
 Selecteer het tabblad om een repository te "clonen" en vul volgende gegevens in:
 - Source Path/URL: https://github.com/StadGent/CityGame.git
 - Destination Path: Browse naar de map waar je Unity projecten staan, standaard is dit "Documenten" of "Documenten\Unity", en vul dit aan met "\CityGame"
-Klik op "Clone" om de repository binnen te halen.<Enter>
-Na het downloaden:<Enter>
+Klik op "Clone" om de repository binnen te halen.  return
+Na het downloaden:  return
 Ga in het menu naar "Repository->Git LFS->Initialise Repository".
 Als er wordt gevraag om Git LFS te installeren, druk dan op "OK".
 Voeg volgende extenties toe aan de Git LFS track lijst: dae, fbx, jpeg, jpg, png, psd, tga, wav (Deze lijst kan nog worden uitgebreid)
@@ -35,10 +35,10 @@ Verwijder de Untitled scene en druk op Play.
 *English Version*
 ## Installation
 
-Download and install Unity version 5.5.0: https://unity3d.com/get-unity/download/archive<Enter>
-Download and install git: https://git-scm.com/downloads<Enter>
-Download en install SourceTree: https://www.sourcetreeapp.com/<Enter>
-During installation:<Enter>
+Download and install Unity version 5.5.0: https://unity3d.com/get-unity/download/archive  return
+Download and install git: https://git-scm.com/downloads  return
+Download en install SourceTree: https://www.sourcetreeapp.com/  return
+During installation:  return
 When asked for Mercurial: select to install the embedded version.
 
 ## Setup
@@ -47,8 +47,8 @@ Start SourceTree and create a new repository.
 Select the tab to clone a repository and fill in following information:
 - Source Path/URL: https://github.com/StadGent/CityGame.git
 - Destination Path: <Browse to the map where your Unity projects are located, standaard  this is "Documents" or "Documents\Unity", and append this with "\CityGame">
-Click "Clone" to download the repository.<Enter>
-After download:<Enter>
+Click "Clone" to download the repository.  return
+After download:  return
 In the menu go to "Repository->Git LFS->Initialise Repository"
 When asked to install Git LFS, press "OK".
 Add the following extentions to the Git LFS track list: dae, fbx, jpeg, jpg, png, psd, tga, wav (This list may get extended)
