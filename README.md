@@ -15,7 +15,7 @@ Als er wordt gevraagd naar Mercurial: selecteer dan om de embedded versie te ins
 Start SourceTree en maak een nieuwe repository aan.  
 Selecteer het tabblad om een repository te "clonen" en vul volgende gegevens in:  
 -Source Path/URL: https://github.com/StadGent/CityGame.git  
--Destination Path: Browse naar de map waar je Unity projecten staan, standaard is dit "Documenten" of "Documenten\Unity", en vul dit aan met "\CityGame"  
+-Destination Path: Browse naar de map waar je Unity projecten staan, standaard is dit "Documenten" of "Documenten\Unity" en vul dit aan met "\CityGame"  
 Klik op "Clone" om de repository binnen te halen.  
 Na het downloaden:  
 Ga in het menu naar "Repository->Git LFS->Initialise Repository".  
@@ -46,7 +46,7 @@ When asked for Mercurial: select to install the embedded version.
 Start SourceTree and create a new repository.  
 Select the tab to clone a repository and fill in following information:  
 -Source Path/URL: https://github.com/StadGent/CityGame.git  
--Destination Path: Browse to the map where your Unity projects are located, standaard  this is "Documents" or "Documents\Unity", and append this with "\CityGame"  
+-Destination Path: Browse to the map where your Unity projects are located, default this is "Documents" or "Documents\Unity" and append this with "\CityGame"  
 Click "Clone" to download the repository.  
 After download:  
 In the menu go to "Repository->Git LFS->Initialise Repository".  
