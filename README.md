@@ -50,7 +50,8 @@ Select the tab to clone a repository and fill in following information:
 Click "Clone" to download the repository.  
 After download:  
 In the menu go to "Repository->Git LFS->Initialise Repository".  
-When asked to install Git LFS, press "OK". Add the following extentions to the Git LFS track list: dae, fbx, jpeg, jpg, png, psd, tga, wav (This list may get extended)  
+When asked to install Git LFS, press "OK".  
+Add the following extentions to the Git LFS track list: dae, fbx, jpeg, jpg, png, psd, tga, wav (This list may get extended)  
 If you don't see a Git LFS track list, you can open this through the menu: Repository->Git LFS->Track/untrack Files  
 In the menu go to "Repository->Git LFS->Pull LFS Content" to download the larger files.  
 When after initialising Git LFS you can't choose "Pull LFS Content" you'll have to wait until SourceTree is done with the initialisation.  
